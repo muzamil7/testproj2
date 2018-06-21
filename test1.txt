@@ -1,10 +1,1 @@
- Volume in drive D is Data
- Volume Serial Number is 18D7-701B
-
- Directory of D:\Users\MUZHUSSA\Desktop\muzi
-
-21/06/2018  23:10    <DIR>          .
-21/06/2018  23:10    <DIR>          ..
-21/06/2018  23:10                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  68,305,584,128 bytes free
+ hello
